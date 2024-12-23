@@ -1,5 +1,6 @@
 {
   "name": "boilerplate-npm",
+  "author": "hrysya",
   "version": "1.0.0",
   "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
   "main": "server.js",
@@ -8,6 +9,6 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "hrysya",
+  
   "license": "ISC"
 }
